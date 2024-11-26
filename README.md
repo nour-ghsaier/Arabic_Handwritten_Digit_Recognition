@@ -11,7 +11,8 @@ This project focuses on recognizing Arabic handwritten digits using Convolutiona
   - NumPy
   - pandas
   - Matplotlib
-  - CNN (Convolutional Neural Network architecture)
+  - Seaborn
+  - scikit-learn
     
 ## Dataset
 The dataset used for this project is sourced from Kaggle: [Arabic Handwritten Digits Dataset](https://www.kaggle.com/datasets/mloey1/ahdd1/data?select=Train+%2B+Test+Matlab.mat). It contains both training and testing data for handwritten Arabic digits.
