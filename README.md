@@ -19,6 +19,6 @@ The dataset used for this project is sourced from Kaggle: [Arabic Handwritten Di
 
 
 ## How to Use
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/nour-ghsaier/Arabic_Handwritten_Digit_Recognition.git
